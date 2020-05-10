@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "jsonstream": "^1.0.3",
+    "request": "^2.88.2"
+  }
 }
