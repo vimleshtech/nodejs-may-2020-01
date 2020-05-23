@@ -30,9 +30,7 @@ employee.config.country='us';
 employee.computeSalary(1000)
 
 
-
 /* create private and public data member and function */
-
 var Person = function ( name ) {
     // Do some stuff here    
     var id =11;
